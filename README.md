@@ -1,5 +1,5 @@
-# 💫 About Me:
- Hi, I’m @anubhav1209<br> I’m interested in Gen Ai , AI/Ml<br>I’m currently learning Java Backend development , python development 
+# 💫 Hi:
+ I’m @anubhav1209<br> I’m interested in Gen Ai , AI/Ml<br>I’m currently learning Java Backend development , python development 
 
 
 ## 🌐 Socials:
